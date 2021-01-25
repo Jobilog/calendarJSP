@@ -1,0 +1,54 @@
+/*this is the border outline use for the input field in LSN07I*/
+.indiv {
+	margin-left: 30%;
+	margin-top: 3%;
+	padding: 20px;
+	width: 25%;
+	outline: 1px solid gray
+}
+/*this is use for the alignment of text box field*/
+.textalign {
+	align: middle;
+}
+/*this is use for the design of the text box fields*/
+.txtbox {
+	width: 200px;
+	height: 30px;
+	align: right;
+	margin-left: 10%;
+	border-radius:5%;
+}
+/*this is the margin that is used for the proper alignment of text box day*/
+.solomarigin {
+	margin-left: 6%;
+}
+/*use for printing the calendar Sunday red*/
+.redtext {
+	color: red;
+}
+/*use for getting the exact date today*/
+.datetoday{
+font-weight:bold;
+color:black;
+font-size:27px;
+}
+/*use for printing the calendar Saturday blue*/
+.bluetext {
+	color: blue;
+}
+/*if the date is on weekends this will be their property*/
+.wkend{
+font-weight:bold;
+font-size:27px;
+}
+/*use for the design of the table calendar*/
+td, th {
+	padding: 5px;
+	text-align: center;
+	font-size:23px;
+}
+/**/
+.caldiv {
+margin-left:30%;
+margin-top:3%;
+}
