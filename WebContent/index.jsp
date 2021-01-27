@@ -30,6 +30,9 @@ int maxDays = cal.getActualMaximum(Calendar.DAY_OF_MONTH);
 	color: red;
 }
 
+.cardboard{
+	background-color: lightblue;
+}
 .datetoday {
 	font-weight: bold;
 	color: black;
